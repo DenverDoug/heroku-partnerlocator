@@ -1,0 +1,15 @@
+{
+  "name": "heroku-partnerlocator",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
